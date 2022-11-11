@@ -1,0 +1,17 @@
+# Hello_HTML
+Crear una web donde se vea el texto "Hello World" seguido de una foto mia
+![imagen](https://user-images.githubusercontent.com/117312907/201365654-cf8bf84d-d522-4cf0-9707-8988db5257d8.png)
+INSTRUCCIONES PARA EDITAR CODIGO:
+<h3>
+1.- ENTRA EN ( https://github.com/alexpajuelo/HelloHTML )
+<h3>
+2.- ENTRA A EL APARTADO DE CODE
+<h3>
+3.- DESCARGA EL .ZIP
+<h3>
+4.- UNA VEZ LO DESCARGUES YA LO PODRAS EMPEZAR A EDITAR
+<h3>
+5.- EN MI CASO HE ECHO USO DE VISUAL STUDIO CODE PARA EDITARLO COLOCANDO LOS ARCHIVOS EN UNA CARPETA
+<h3>
+6.- CUANDO ESTE TERMINADO TENDRAS QUE INICIARLO CON LA TECLA "F5"
+<h3>
